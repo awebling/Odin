@@ -1,1 +1,3 @@
 Hello World!
+
+This is the second attempt to work through the Odin Project - June 2023
